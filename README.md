@@ -1,4 +1,4 @@
-# ui2_project
+# connected_ui_flutter
 
 A new Flutter project.
 
